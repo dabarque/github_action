@@ -12,7 +12,7 @@ jobs:
       - name: Mostrar mensaje
         run: |
           echo "Hola"
-          echos "Adiós"
+          echo "Adiós"
       - name: Mostrar fecha
         run: date
       - run: ls -l
